@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noman1989
+- 👋 Hi, I’m @Nomi
 - 👀 I’m interested in HTML>CSS>JAVASCRIPT>TYPESCRIPT
 - 🌱 I’m currently learning Coding
 
